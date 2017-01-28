@@ -1,0 +1,23 @@
+.mm{
+	border-radius:50%;
+	width:300px;
+	height:300px;
+	left:50%;
+	position: relative;
+	display: block;
+	z-index: 11;
+	opacity: 1;
+}
+.nn{
+	border-radius:50%;
+	width:200px;
+	height:200px;
+	left:40%;
+	position: absolute;
+	display: block;
+	margin-top: -120px;
+	margin-left:60px;
+	animation-delay:0.5s;
+	z-index: 12;
+	opacity: 1;
+}
